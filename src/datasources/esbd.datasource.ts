@@ -5,7 +5,7 @@ const config = {
   name: 'esbd',
   connector: 'postgresql',
   url: '',
-  host: 'postgres://postgres:masterkey@localhost/esbd)',
+  host: 'localhost',
   port: 5432,
   user: 'postgres',
   password: 'masterkey',
